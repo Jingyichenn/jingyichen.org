@@ -1,26 +1,28 @@
-baseURL = 'http://example.org/'
+baseURL = "http://example.org/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "JINGYI CHEN"
 
 theme = "simpleAcademia"
 
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "About"
     pre = "home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
+    name = "Research"
     pre = "pen-tool"
     url = "/posts/"
     weight = 2
-  [[menu.main]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
-    weight = 3
+
+
+[params]
+author = "Jingyi Chen"
+bio =  """I'm a PhD student in linguistics at the University of Maryland, advised by [Valentine Hacquard](https://valentinehacquard.org/) and [Alexander Williams](https://www.alexanderwilliams.org/). I work on semantics.
+Before coming to UMD, I earned a bachelor's in philosophy from Rutgers University and a master's in philosophy from the University of Wisconsin-Milwaukee, advised by [Peter van Elswyk](https://sites.uwm.edu/vanelswy/) and [Nick Fleisher](https://sites.uwm.edu/fleishen/), who helped me find my way into linguistics. 
+When not thinking about words, I like running and being upside down. 
+You can contact me at: jchen7 at umd dot edu."""
 
 sectionPagesMenu = "main"
-
