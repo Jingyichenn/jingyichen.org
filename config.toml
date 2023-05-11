@@ -14,7 +14,7 @@ theme = "simpleAcademia"
   [[menu.main]]
     name = "Research"
     pre = "pen-tool"
-    url = "/posts/"
+    url = "/research"
     weight = 2
 
 
