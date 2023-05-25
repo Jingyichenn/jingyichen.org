@@ -8,4 +8,6 @@ Before coming to UMD, I earned a bachelor's in philosophy from Rutgers Universit
 
 When not thinking about words, I like to run and be upside down.
 
+You can contact me at jchen7 [at] umd [dot] edu.
+
 
